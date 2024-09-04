@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digitian
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning javascript, typescript, angular, html5, .net core
+- 🌱 I’m currently improving myself on Angular, HTML5, .Net Core
 - 💞️ I’m looking to collaborate on building network of other web&software developers.
 - 📫 You can reach me via e-mail: huseyinemeci@gmail.com
 
